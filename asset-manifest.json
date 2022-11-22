@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/perso-port/static/css/main.d761bdb9.css",
-    "main.js": "/perso-port/static/js/main.fc604c96.js",
+    "main.css": "/perso-port/static/css/main.4221a990.css",
+    "main.js": "/perso-port/static/js/main.bd4e6c92.js",
     "static/js/787.fb771931.chunk.js": "/perso-port/static/js/787.fb771931.chunk.js",
     "static/media/color-sharp.png": "/perso-port/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/color-sharp2.png": "/perso-port/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
@@ -22,16 +22,15 @@
     "static/media/meter1.svg": "/perso-port/static/media/meter1.c4085ff859afbd8488e9da47d4953850.svg",
     "static/media/meter3.svg": "/perso-port/static/media/meter3.2201f7e4df22bc4b08180210474f28cc.svg",
     "static/media/nav-icon3.svg": "/perso-port/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
-    "static/media/logo.svg": "/perso-port/static/media/logo.eaf3c0bc058e0ed6471ba20dc0af6da2.svg",
     "index.html": "/perso-port/index.html",
     "static/media/nav-icon1.svg": "/perso-port/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "static/media/nav-icon2.svg": "/perso-port/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
-    "main.d761bdb9.css.map": "/perso-port/static/css/main.d761bdb9.css.map",
-    "main.fc604c96.js.map": "/perso-port/static/js/main.fc604c96.js.map",
+    "main.4221a990.css.map": "/perso-port/static/css/main.4221a990.css.map",
+    "main.bd4e6c92.js.map": "/perso-port/static/js/main.bd4e6c92.js.map",
     "787.fb771931.chunk.js.map": "/perso-port/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d761bdb9.css",
-    "static/js/main.fc604c96.js"
+    "static/css/main.4221a990.css",
+    "static/js/main.bd4e6c92.js"
   ]
 }
