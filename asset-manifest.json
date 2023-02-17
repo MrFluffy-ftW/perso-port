@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/perso-port/static/css/main.619d0602.css",
-    "main.js": "/perso-port/static/js/main.3d42a094.js",
+    "main.js": "/perso-port/static/js/main.782c5867.js",
     "static/js/787.fb771931.chunk.js": "/perso-port/static/js/787.fb771931.chunk.js",
     "static/media/proj-face.png": "/perso-port/static/media/proj-face.3775658b6736f9a860ab.png",
     "static/media/proj-shareme.png": "/perso-port/static/media/proj-shareme.d771303700d9a18250cd.png",
@@ -34,16 +34,18 @@
     "static/media/HTMLLogo.png": "/perso-port/static/media/HTMLLogo.ff3cf75e3b7cbb4ea77c.png",
     "static/media/revicons.ttf": "/perso-port/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/perso-port/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/postman.svg": "/perso-port/static/media/postman.e65afafee644ce9fe8a727d01b403189.svg",
     "static/media/nav-icon3.svg": "/perso-port/static/media/nav-icon3.97ed8e7eef60d61ca469881dd6f34511.svg",
     "index.html": "/perso-port/index.html",
+    "static/media/Figma-logo.svg": "/perso-port/static/media/Figma-logo.0f4098dccb2a84e24331b00bc6a8dcf8.svg",
     "static/media/nav-icon1.svg": "/perso-port/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "static/media/nav-icon2.svg": "/perso-port/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
     "main.619d0602.css.map": "/perso-port/static/css/main.619d0602.css.map",
-    "main.3d42a094.js.map": "/perso-port/static/js/main.3d42a094.js.map",
+    "main.782c5867.js.map": "/perso-port/static/js/main.782c5867.js.map",
     "787.fb771931.chunk.js.map": "/perso-port/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.619d0602.css",
-    "static/js/main.3d42a094.js"
+    "static/js/main.782c5867.js"
   ]
 }
